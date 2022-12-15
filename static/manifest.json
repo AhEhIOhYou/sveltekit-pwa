@@ -1,0 +1,21 @@
+{
+	"name": "SvelteKit PWA App",
+	"short-name": "PWA App",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#5E747F",
+	"theme_color": "#5E747F",
+	"description": "A SvelteKit PWA App",
+	"icons": [
+		{
+			"src": "/icon.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "/maskable_icon.png",
+			"sizes": "512x512",
+			"purpose": "maskable"
+		}
+	]
+}
